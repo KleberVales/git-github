@@ -9,6 +9,10 @@
 * formatação com markdown
 
 ### Produtos de GitHub
+* Contas e ferramentas 
+* GitHub project
+* Github Copiloto
+* GitHub Codspace
 
 ### Administração do GitHub
 
