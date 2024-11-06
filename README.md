@@ -9,7 +9,9 @@ Git clone\
 Git add\
 Git commit\
 Git status\
-Git log
+Git log\
+Git branch\
+Git checkout\
 * autenticacao
 * trabalho colaborativo
 * formatação com markdown
