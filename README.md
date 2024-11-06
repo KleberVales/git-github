@@ -8,6 +8,8 @@ Git init\
 Git clone\
 Git add\
 Git commit\
+Git status\
+Git log
 * autenticacao
 * trabalho colaborativo
 * formatação com markdown
