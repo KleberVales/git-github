@@ -15,6 +15,9 @@
 * GitHub Codspace
 
 ### Administração do GitHub
+* Permissões 
+- Permissões de diretórios 
+- Permissões de organização 
 
 
 
