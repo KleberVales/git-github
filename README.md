@@ -3,7 +3,7 @@
 ## Uma Analise de Git e Github
 
 ### Introdução aos conceitos de git github
-* principais comando\
+* principais comandos\
 Git init\
 Git clone\
 Git add\
