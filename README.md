@@ -12,6 +12,13 @@ Git status\
 Git log\
 Git branch\
 Git checkout\
+Git pull\
+Git push\
+Git remote\
+Git fetch\
+Git reset\
+Git rm\
+Git gif
 * autenticacao
 * trabalho colaborativo
 * formatação com markdown
