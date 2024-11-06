@@ -4,6 +4,10 @@
 
 ### Introdução aos conceitos de git github
 * principais comando
+Git init\
+Git clone\
+Git add\
+Git commit\
 * autenticacao
 * trabalho colaborativo
 * formatação com markdown
