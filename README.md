@@ -23,6 +23,8 @@ Git log\
 Quem fez as alterações 
 
 Git branch\
+Ver quais as brancas ou criar uma nova
+
 Git checkout\
 Git pull\
 Git push\
