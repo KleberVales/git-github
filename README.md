@@ -29,7 +29,7 @@ Git checkout\
 Mudar branch 
 
 Git pull\
-puchar alterações 
+puxar alterações 
 
 Git push\
 Git remote\
