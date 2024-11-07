@@ -26,6 +26,8 @@ Git branch\
 Ver quais as brancas ou criar uma nova
 
 Git checkout\
+Mudar branch 
+
 Git pull\
 Git push\
 Git remote\
