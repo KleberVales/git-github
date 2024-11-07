@@ -12,6 +12,7 @@ Git clone\
 Clonar um repositório remoto para a máquina local
 
 Git add\
+Adicionar arquivos
 Git commit\
 Git status\
 Git log\
