@@ -5,7 +5,7 @@
 ### Introdução aos conceitos de git github
 * principais comandos\
 Git init\
-Monitorar repositório\
+Monitorar repositório
 
 Git clone\
 Clonar um repositório remoto para a máquina local
