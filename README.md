@@ -13,8 +13,12 @@ Clonar um repositório remoto para a máquina local
 
 Git add\
 Adicionar arquivos
+
 Git commit\
+
 Git status\
+Ver estados dos arquivos 
+
 Git log\
 Git branch\
 Git checkout\
