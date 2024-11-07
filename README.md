@@ -20,6 +20,8 @@ Git status\
 Ver estados dos arquivos 
 
 Git log\
+Quem fez as alterações 
+
 Git branch\
 Git checkout\
 Git pull\
