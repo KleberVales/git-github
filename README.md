@@ -6,8 +6,10 @@
 * principais comandos\
 Git init\
 Monitorar repositório\
+
 Git clone\
 Clonar um repositório remoto para a máquina local
+
 Git add\
 Git commit\
 Git status\
