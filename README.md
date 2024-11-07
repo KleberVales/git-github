@@ -29,6 +29,8 @@ Git checkout\
 Mudar branch 
 
 Git pull\
+puchar alterações 
+
 Git push\
 Git remote\
 Git fetch\
