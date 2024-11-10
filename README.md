@@ -54,6 +54,7 @@ Realease\
 Gist\
 Issue\
 Wikis\
+Pesquisas e referencias
 
 * formatação com markdown
 
