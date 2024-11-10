@@ -53,7 +53,7 @@ Tag\
 Realease\
 Gist\
 Issue\
-
+Wikis\
 
 * formatação com markdown
 
