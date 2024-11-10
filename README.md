@@ -3,7 +3,7 @@
 ## Uma Analise de Git e Github
 
 ### Introdução aos conceitos de git github
-* principais comandos\
+* principais comandos
 
 Git init\
 Monitorar repositório
@@ -14,7 +14,7 @@ Clonar um repositório remoto para a máquina local
 Git add\
 Adicionar arquivos
 
-Git commit\
+Git commit
 
 Git status\
 Ver estados dos arquivos 
@@ -38,10 +38,17 @@ Git reset\
 Git rm\
 Git gif
 * autenticacao
+  
 Token e chave SSH\
 SSO do Saml\
 2FA
+
 * trabalho colaborativo
+
+Repositório\
+Branch\
+Pull Request\
+
 * formatação com markdown
 
 ### Produtos de GitHub
