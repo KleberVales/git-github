@@ -49,7 +49,7 @@ Repositório\
 Branch\
 Pull Request\
 Fork\
-
+Tag\
 
 * formatação com markdown
 
