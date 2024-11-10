@@ -38,6 +38,9 @@ Git reset\
 Git rm\
 Git gif
 * autenticacao
+Token e chave SSH\
+SSO do Saml\
+2FA
 * trabalho colaborativo
 * formatação com markdown
 
