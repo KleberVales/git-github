@@ -51,6 +51,7 @@ Pull Request\
 Fork\
 Tag\
 Realease\
+Gist\
 
 * formatação com markdown
 
