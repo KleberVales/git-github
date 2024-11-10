@@ -50,6 +50,7 @@ Branch\
 Pull Request\
 Fork\
 Tag\
+Realease\
 
 * formatação com markdown
 
