@@ -48,6 +48,8 @@ SSO do Saml\
 Repositório\
 Branch\
 Pull Request\
+Fork\
+
 
 * formatação com markdown
 
