@@ -52,6 +52,8 @@ Fork\
 Tag\
 Realease\
 Gist\
+Issue\
+
 
 * formatação com markdown
 
