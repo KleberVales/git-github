@@ -67,6 +67,10 @@ Pesquisas e referencias
 ### Administração do GitHub
 * Permissões 
 - Permissões de diretórios 
+    1. ADM
+    2. Maintain
+    3. Read
+    4. Write
 - Permissões de organização 
 
 
